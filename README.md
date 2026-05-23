@@ -4,10 +4,10 @@
 ## <u>Rio tuba, Bataraza, Palawan</u>
 >" You only live onces."
 
-**School Information**
-|------------|---------------|
-|School Level| Name of School|
-|------------|---------------|
+**School Information*
+| ------------ | -------------- |
+| School Level | Name of School |
+| ------------ | -------------- |
 |----------|---------------------------------------------|
 |Elementary| Alfredo Gregorio Memorial 
 Elementary School|
